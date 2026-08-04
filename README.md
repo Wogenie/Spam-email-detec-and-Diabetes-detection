@@ -150,6 +150,3 @@ If this repository does not already include a LICENSE file, only for learning pu
 For questions, open an issue or contact the repository owner: https://github.com/Wogenie
 
 ---
-
-Notes
-- This README is a template based on common structure for ML projects. If you provide more details about file names and scripts in the repo, I can tailor the README to the exact code paths and add usage examples that match the project's scripts and notebooks.
