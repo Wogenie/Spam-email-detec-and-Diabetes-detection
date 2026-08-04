@@ -9,24 +9,6 @@ Both projects include code for data preprocessing, model training, evaluation, a
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Repository Structure](#repository-structure)
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Usage](#usage)
-  - [Spam Email Detection](#spam-email-detection)
-  - [Diabetes Prediction](#diabetes-prediction)
-- [Datasets](#datasets)
-- [Models & Evaluation](#models--evaluation)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Project Overview
 
 This repository contains two separate but related ML demos demonstrating common classification workflows:
@@ -44,16 +26,10 @@ Note: exact file names may vary. Adjust commands below for the filenames present
 - spam_detection/
   - data/                  — sample datasets or download scripts
   - notebooks/             — exploratory notebooks
-  - src/                   — preprocessing, training, predict scripts
-  - models/                — trained model files (gitignored)
-  - requirements.txt       — project dependencies for this component
 
 - diabetes_prediction/
   - data/
   - notebooks/
-  - src/
-  - models/
-  - requirements.txt
 
 - README.md               — this file
 
@@ -168,8 +144,7 @@ Please follow standard Python code style and include dependency updates in requi
 
 ## License
 
-If this repository does not already include a LICENSE file, consider adding one (e.g., MIT License) and update this section accordingly.
-
+If this repository does not already include a LICENSE file, only for learning purpose
 ## Contact
 
 For questions, open an issue or contact the repository owner: https://github.com/Wogenie
